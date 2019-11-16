@@ -20,17 +20,6 @@ def hopper
        
 end
 
-
-
-
-
-
-
-
-
-
-
-
 def alan_kay_is_known_for
   
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
@@ -52,11 +41,6 @@ def alan_kay_is_known_for
      }
      return programmer_hash[:alan_kay][:known_for]
 end
-
-
-
-
-
 
 
 def dennis_ritchies_language
@@ -125,11 +109,6 @@ def changing_alan
     return programmer_hash
      
 end
-
-     
-     #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
-    # alans_new_info = "GUI"
-
 
 
 
